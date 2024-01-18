@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Leanne Allen
-- 👀 I’m interested in AI, software engineering, front and backend, 
+- 👀 I’m interested in software engineering, front and backend, machine learning, and AI
 - 🌱 I’m currently working toward a Computing Engineering bachelor degree at San Diego 
       State University
 - 💞️ I’m looking to collaborate on any software projects
